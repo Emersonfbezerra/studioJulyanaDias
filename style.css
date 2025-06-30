@@ -60,6 +60,7 @@ p {
     position: fixed;
     top: 20px;
     right: 20px;
+}
 
 .whatsapp-button:hover {
     background-color: #1ebc5d;
